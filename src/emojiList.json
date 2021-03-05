@@ -1,16 +1,5 @@
 [
   {
-    "title": "100",
-    "symbol": "💯",
-    "keywords":
-      "hundred points symbol symbol wow wow win win perfect perfect parties parties"
-  },
-  {
-    "title": "1234",
-    "symbol": "🔢",
-    "keywords": "input symbol for numbers symbol"
-  },
-  {
     "title": "Grinning",
     "symbol": "😀",
     "keywords": "grinning face happy smiley emotion emotion"
@@ -99,16 +88,12 @@
     "keywords": "relieved face smiley emotion emotion"
   },
   {
-    "title": "Heart Eyes",
-    "symbol": "😍",
+    "title": "joking",
+    "symbol": "😝",
     "keywords":
-      "smiling face with heart-shaped eyes happy smiley love sex heart eyes emotion emotion beautiful beautiful"
+      "hundred points symbol symbol wow wow win win perfect perfect parties parties"
   },
-  {
-    "title": "Kissing Heart",
-    "symbol": "😘",
-    "keywords": "face throwing a kiss smiley love sexy"
-  },
+  
   {
     "title": "Kissing",
     "symbol": "😗",
